@@ -25,7 +25,7 @@ SECRET_KEY = 'quog%8!rtwudjai1_@knblh4ogf_+5u&vnfn!!*cqrttve6^c6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['Bazanini.pythonanywhere.com']
 
 
 # Application definition
